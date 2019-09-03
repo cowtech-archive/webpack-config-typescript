@@ -1,3 +1,7 @@
+### 2019-09-03 / 0.3.0
+
+* feat: Added ts-node to dependencies.
+
 ### 2019-08-30 / 0.2.0
 
 * chore(deps): Updated dependencies.
