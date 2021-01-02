@@ -1,11 +1,11 @@
 # @cowtech/webpack-config-typescript
 
-[![Package Version](https://img.shields.io/npm/v/@cowtech/webpack-config-typescript.svg)](https://npmjs.com/package/@cowtech/webpack-config-typescript)
-[![Dependency Status](https://img.shields.io/gemnasium/github.com/cowtech/webpack-config-typescript.svg)](https://gemnasium.com/github.com/cowtech/webpack-config-typescript)
+[![Package Version](https://img.shields.io/npm/v/@cowtech/webpack-config-typescript.svg)](https://npm.im/@cowtech/webpack-config-typescript)
+[![Dependency Status](https://img.shields.io/david/cowtech/webpack-config-typescript)](https://david-dm.org/cowtech/webpack-config-typescript)
 
 Typescript development peer dependencies for [@cowtech/webpack-config](https://github.com/cowtech/webpack-config)
 
-https://github.com/cowtech/webpack-config-typescript
+https://sw.cowtech.it/webpack-config-typescript
 
 ## Contributing to webpack-config-typescript
 

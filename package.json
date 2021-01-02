@@ -4,34 +4,44 @@
   "description": "Typescript development peer dependencies for @cowtech/webpack-config",
   "homepage": "https://sw.cowtech.it/webpack-config-typescript",
   "repository": "github:cowtech/webpack-config-typescript",
-  "keywords": [],
+  "keywords": [
+    "webpack",
+    "webpack-config",
+    "typescript",
+    "cowtech"
+  ],
   "bugs": {
     "url": "https://github.com/cowtech/webpack-config-typescript/issues"
   },
   "author": "Shogun <shogun@cowtech.it>",
   "license": "ISC",
-  "main": "index.js",
+  "private": false,
   "files": [
     "index.js",
     "README.md",
     "CHANGELOG.md"
   ],
+  "main": "index.js",
   "scripts": {
+    "lint": "eslint index.js",
+    "ci": "yarn lint",
+    "prepublishOnly": "yarn ci",
     "postpublish": "git push origin && git push origin -f --tags"
   },
   "dependencies": {
-    "@cowtech/webpack-config": "^1.22.0",
-    "@types/fs-extra": "^8.0.1",
-    "@types/node": "^12.12.22",
-    "@types/webpack": "^4.41.0",
-    "fork-ts-checker-webpack-plugin": "^3.1.1",
-    "typescript": "^3.7.4",
-    "ts-node": "^8.5.4"
+    "@cowtech/webpack-config": "^1.24.0",
+    "@types/fs-extra": "^9.0.6",
+    "@types/node": "^14.14.19",
+    "@types/webpack": "^4.41.25",
+    "fork-ts-checker-webpack-plugin": "^6.0.8",
+    "typescript": "^4.1.3",
+    "ts-node": "^9.1.1"
   },
   "devDependencies": {
-    "prettier": "^1.19.1"
+    "@cowtech/eslint-config": "^7.12.2",
+    "prettier": "^2.2.1"
   },
   "engines": {
-    "node": ">=12.0"
+    "node": ">=12.15.0"
   }
 }
