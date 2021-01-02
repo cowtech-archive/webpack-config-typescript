@@ -1,3 +1,8 @@
+### 2021-01-02 / 0.6.0
+
+- chore: Added missing file.
+- chore: Updated dependencies, code and tools.
+
 ### 2019-12-30 / 0.5.0
 
 - feat: Drop lodash dependencies.
