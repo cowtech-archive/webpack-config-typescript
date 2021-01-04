@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/webpack-config-typescript",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Typescript development peer dependencies for @cowtech/webpack-config",
   "homepage": "https://sw.cowtech.it/webpack-config-typescript",
   "repository": "github:cowtech/webpack-config-typescript",
