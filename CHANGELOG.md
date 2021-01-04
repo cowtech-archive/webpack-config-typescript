@@ -1,3 +1,7 @@
+### 2021-01-04 / 0.6.2
+
+- fix: Updated package file list.
+
 ### 2021-01-03 / 0.6.1
 
 - chore: Updated linter config.
