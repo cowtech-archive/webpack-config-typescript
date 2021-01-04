@@ -18,8 +18,9 @@
   "private": false,
   "files": [
     "index.js",
-    "README.md",
-    "CHANGELOG.md"
+    "CHANGELOG.md",
+    "LICENSE.md",
+    "README.md"
   ],
   "main": "index.js",
   "scripts": {
