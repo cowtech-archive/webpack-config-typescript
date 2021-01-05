@@ -1,3 +1,7 @@
+### 2021-01-05 / 0.7.0
+
+- feat: Updated dependencies.
+
 ### 2021-01-04 / 0.6.2
 
 - fix: Updated package file list.
