@@ -1,3 +1,7 @@
+### 2021-01-06 / 0.9.0
+
+- feat: Updated dependencies.
+
 ### 2021-01-06 / 0.8.0
 
 - feat: Updated dependencies.
