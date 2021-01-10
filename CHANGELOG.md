@@ -1,3 +1,7 @@
+### 2021-01-10 / 0.10.0
+
+- chore: Updated dependencies.
+
 ### 2021-01-06 / 0.9.0
 
 - feat: Updated dependencies.
