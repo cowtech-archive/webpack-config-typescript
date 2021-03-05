@@ -1,3 +1,7 @@
+### 2021-03-05 / 1.0.0
+
+- feat: Mark API as stable.
+
 ### 2021-01-10 / 0.10.0
 
 - chore: Updated dependencies.
