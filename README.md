@@ -1,5 +1,7 @@
 # @cowtech/webpack-config-typescript
 
+## END OF DEVELOPMENT NOTICE - This package has been merged in @cowtech/webpack-config
+
 [![Package Version](https://img.shields.io/npm/v/@cowtech/webpack-config-typescript.svg)](https://npm.im/@cowtech/webpack-config-typescript)
 [![Dependency Status](https://img.shields.io/david/cowtech/webpack-config-typescript)](https://david-dm.org/cowtech/webpack-config-typescript)
 
