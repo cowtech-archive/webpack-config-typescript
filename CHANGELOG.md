@@ -1,3 +1,7 @@
+### 2021-08-05 / 1.0.1
+
+- chore: Added end of development notice.
+
 ### 2021-03-05 / 1.0.0
 
 - feat: Mark API as stable.
